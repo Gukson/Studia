@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykłady.md",
+                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykłady.md"
+                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykłady.md",
+                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,42 +143,15 @@
   },
   "active": "ca7f7faf5a35324f",
   "lastOpenFiles": [
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
+    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykłady.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 1/Drawing 2023-03-01 13.22.02.excalidraw.md",
-    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykłady.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 1",
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Programowanie obiektowe/Wykłady/Wykłady.md",
     "Notatki/Teoria systemów/Wykłady/Wykłady.md",
     "Notatki/Teoria systemów/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Teoria systemów/Wykłady/Wykład 1",
-    "README.md",
-    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
-    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
-    "Notatki/Fizyka 1.1A/Wykłady/Wykład 9/Wykład 9.md",
-    "Notatki/Fizyka 1.1A/Wykłady/Wykład 8/Wykład 8.md",
-    "Notatki/Fizyka 1.1A/Wykłady/Wykład 7/Wykład 7.md",
-    "Notatki/Fizyka 1.1A/Wykłady/Wykład 6/Wykład 6.md",
-    "Notatki/Fizyka 1.1A/Wykłady/Wykład 5/Wykład 5.md",
-    "Notatki/Fizyka 1.1A/Wykłady/Wykład 4/Wykład 4.md",
-    "Notatki/Fizyka 1.1A/Wykłady/Wykład 3/Wykład 3.md",
-    "Notatki/Fizyka 1.1A/Wykłady/Wykład 2/Wykład 2.md",
-    "Notatki/Fizyka 1.1A/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6.md",
-    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md",
-    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md",
-    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3.md",
-    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 1/1 Lista zadań kinematyka i dynamika 2022.pdf",
-    "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Wykład 7.md",
-    "Notatki/Matematyka dyskretna/Wykłady/Wykład 6/Wykład 6.md",
-    "Notatki/Matematyka dyskretna/Wykłady/Wykład 5/Wykład 5.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Lista_6_MD.pdf",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 3/Lista_3_MD.pdf",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Lista 2 MD.pdf",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 7/Lista_7_MD.pdf",
-    "Notatki/Programowanie obiektowe/Wykłady/Wykład 7/ObjectProj3.pdf",
-    "Notatki/Fizyka 1.1A/Wykłady/Wykład 9/Notatki do wykładów optyka falowa 2021.pdf",
-    "Notatki/Fizyka 1.1A/Wykłady/Wykład 9/Notatki do wykładów optyka falowa 2021.pdf.crdownload",
-    "Notatki/Fizyka 1.1A/Wykłady/Wykład 7/skuteczna.png"
+    "Notatki/Teoria systemów/Wykłady/Wykład 1"
   ]
 }
