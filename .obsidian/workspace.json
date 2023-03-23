@@ -11,8 +11,10 @@
             "id": "864d8f7dd2bb8417",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 3/Drawing 2023-03-17 13.36.36.excalidraw.md"
+              }
             }
           }
         ]
@@ -57,8 +59,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5069465637207,
-    "collapsed": true
+    "width": 327.5069465637207
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -93,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 3/Drawing 2023-03-17 13.36.36.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,7 +105,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 3/Drawing 2023-03-17 13.36.36.excalidraw.md"
+              }
             }
           }
         ],
