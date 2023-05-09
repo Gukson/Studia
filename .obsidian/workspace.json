@@ -4,21 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "494a9dc4bcfe5189",
+        "id": "9c6eaf861776aa87",
         "type": "tabs",
         "children": [
           {
-            "id": "e81ebd15b6210bcd",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 5/Drawing 2023-04-14 13.53.09.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "c6c09b7c065d294c",
+            "id": "0dd7e37786361e38",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -27,8 +17,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,10 +136,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c6c09b7c065d294c",
+  "active": "0dd7e37786361e38",
   "lastOpenFiles": [
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Drawing 2023-03-24 14.32.29.excalidraw.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 5/Drawing 2023-04-21 13.17.59.excalidraw.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 5/Drawing 2023-04-14 13.53.09.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Drawing 2023-03-31 14.05.09.excalidraw.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Drawing 2023-03-24 14.32.29.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Drawing 2023-04-13 11.37.53.excalidraw.md",
     "Untitled.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 1/AM2-zestaw_01.pdf",
@@ -185,8 +176,6 @@
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 4/Wykład 4.md",
     "Notatki/Teoria systemów/Wykłady/Wykłady.md",
     "Notatki/Teoria systemów/Wykłady/Wykład 5/Wykład 5.md",
-    "Notatki/Teoria systemów/Wykłady/Wykład 5/Drawing 2023-04-26 07.31.17.excalidraw.md",
-    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 3/Drawing 2023-03-08 14.00.06.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Pasted Image 20230425200627_616.png",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Pasted Image 20230425180906_567.png",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Pasted Image 20230424171044_228.png",
