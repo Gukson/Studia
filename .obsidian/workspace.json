@@ -11,10 +11,8 @@
             "id": "3075cffdd6ed08c7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 6/Drawing 2023-05-08 07.32.16.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -102,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 6/Drawing 2023-05-08 07.32.16.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 6/Drawing 2023-05-08 07.32.16.excalidraw.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -138,52 +133,52 @@
   },
   "active": "3075cffdd6ed08c7",
   "lastOpenFiles": [
-    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 4/Drawing 2023-04-24 07.32.39.excalidraw.md",
     "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 6/Drawing 2023-05-08 07.32.16.excalidraw.md",
-    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6.md",
-    "Notatki/Teoria systemów/Wykłady/Wykład 5/Drawing 2023-04-26 07.31.17.excalidraw.md",
-    "Notatki/Teoria systemów/Wykłady/Wykład 6/Drawing 2023-05-10 07.32.49.excalidraw.md",
-    "Notatki/Teoria systemów/Wykłady/Wykład 4/Drawing 2023-04-12 07.36.42.excalidraw.md",
-    "Notatki/Teoria systemów/Wykłady/Wykład 4/Wykład 4.md",
-    "Notatki/Teoria systemów/Wykłady/Wykład 3/Drawing 2023-03-29 07.30.10.excalidraw.md",
-    "Notatki/Teoria systemów/Wykłady/Wykład 3/Wykład 3.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 5/Drawing 2023-04-21 13.17.59.excalidraw.md",
-    "Notatki/Teoria systemów/Wykłady/Wykład 2/Drawing 2023-03-15 07.30.40.excalidraw.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Drawing 2023-04-28 13.17.09.excalidraw.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Drawing 2023-04-21 13.59.27.excalidraw.md",
+    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 6/Drawing 2023-05-22 07.33.21.excalidraw.md",
+    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md",
+    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 5/Drawing 2023-05-08 07.32.16.excalidraw.md",
+    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 5",
+    "Notatki/Teoria systemów/Wykłady/teoria systemów.pdf",
+    "Notatki/Teoria systemów/Wykłady/Kolokwium/Kolokwium.md",
+    "Notatki/Teoria systemów/Wykłady/Kolokwium",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 6/Drawing 2023-05-18 11.06.37.excalidraw.md",
+    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 9/Wykład 9.md",
+    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 9",
+    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 8/Wykład 8.md",
+    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 8/18.05.2023 r. w2(1).png",
+    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 8/12.05.2023(1).png",
+    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 8",
+    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 7/Wykład 7.md",
+    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 7/Podstawy automatyzacji procesów technologicznych - wprowadzenie -2023 PAiR.pdf",
+    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 7",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 6/Pasted Image 20230513100604_918.png",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 6/Drawing 2023-05-13 15.53.42.excalidraw.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 6/Drawing 2023-05-13 12.31.42.excalidraw.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 6/Drawing 2023-05-13 10.05.19.excalidraw.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 8/Drawing 2023-05-19 13.23.06.excalidraw.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 7/Drawing 2023-05-19 13.16.05.excalidraw.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 7/Drawing 2023-05-12 14.07.00.excalidraw.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Pasted Image 20230511180759_818.png",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Pasted Image 20230511171741_766.png",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Drawing 2023-05-11 18.07.44.excalidraw.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Drawing 2023-05-11 17.17.26.excalidraw.md",
+    "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Drawing 2023-05-18 09.15.24.excalidraw.md",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 4/Pasted Image 20230519123344_296.png",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 4/Pasted Image 20230519123034_878.png",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 4/Pasted Image 20230518185347_965.png",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 4/Pasted Image 20230518183216_312.png",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 4/Pasted Image 20230518181657_935.png",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 4/Drawing 2023-05-18 16.59.44.excalidraw.md",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 8/Drawing 2023-05-16 13.15.15.excalidraw.md",
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 6/Drawing 2023-05-11 15.23.48.excalidraw.md",
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Drawing 2023-05-11 15.23.56.excalidraw.md",
+    "Notatki/Algebra liniowa 2/Wykłady/Wykład 5/Drawing 2023-05-17 13.23.01.excalidraw.md",
+    "Notatki/Algebra liniowa 2/Wykłady/Wykład 5/Drawing 2023-05-16 08.08.53.excalidraw.md",
+    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 4/Drawing 2023-04-24 07.32.39.excalidraw.md",
+    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 3/Drawing 2023-03-27 07.31.12.excalidraw.md",
     "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 6",
-    "Notatki/Teoria systemów/Wykłady/Wykład 6/Wykład 6.md",
     "Notatki/Teoria systemów/Wykłady/Wykład 6",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 7/Drawing 2023-04-28 14.11.21.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Odp_MD.pdf",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Pasted image 20230509201009.png",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Pasted Image 20230510182053_521.png",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Pasted Image 20230510182038_716.png",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Pasted Image 20230510182028_818.png",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Pasted Image 20230510163637_417.png",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Pasted Image 20230509204338_172.png",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Kolokwium 2.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Drawing 2023-05-10 17.49.10.excalidraw.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Drawing 2023-05-10 16.36.22.excalidraw.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Drawing 2023-05-09 20.43.30.excalidraw.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2",
-    "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Drawing 2023-05-11 09.17.22.excalidraw.md",
-    "Notatki/Algebra liniowa 2/Wykłady/Wykład 4/Drawing 2023-05-10 14.29.41.excalidraw.md",
-    "Notatki/Algebra liniowa 2/Wykłady/Wykład 3/Drawing 2023-05-10 13.17.28.excalidraw.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 9/Lista_9_MD.pdf",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 5/Drawing 2023-04-14 13.53.09.excalidraw.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Drawing 2023-03-31 14.05.09.excalidraw.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Drawing 2023-03-24 14.32.29.excalidraw.md",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Drawing 2023-04-13 11.37.53.excalidraw.md",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 1/AM2-zestaw_01.pdf",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 7/Samolot.java",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 7/Pociag.java",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 7/AbstractTransport.java",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 7/Programista.java",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Pasted Image 20230424160124_377.png",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Pasted Image 20230424104526_371.png",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Pasted Image 20230425200627_616.png",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Pasted Image 20230425180906_567.png",
     "Untitled.canvas"
   ]
 }
