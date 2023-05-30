@@ -21,9 +21,9 @@
             "id": "fc7869c466adad70",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "pdf",
               "state": {
-                "currentVersion": "1.3.4"
+                "file": "Notatki/Algebra liniowa 2/Wykłady/Wykład 1/AL2-Wyklad-1.pdf"
               }
             }
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 6/Drawing 2023-05-22 07.33.21.excalidraw.md",
+                "file": "Notatki/Algebra liniowa 2/Wykłady/Wykład 1/AL2-Wyklad-1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 6/Drawing 2023-05-22 07.33.21.excalidraw.md"
+                "file": "Notatki/Algebra liniowa 2/Wykłady/Wykład 1/AL2-Wyklad-1.pdf"
               }
             }
           }
@@ -149,6 +149,14 @@
   },
   "active": "fc7869c466adad70",
   "lastOpenFiles": [
+    "Notatki/Algebra liniowa 2/Wykłady/Wykład 1/Wyklad_1a.pdf",
+    "Notatki/Algebra liniowa 2/Wykłady/Wykład 1/AL2-zestaw-1.pdf",
+    "Notatki/Algebra liniowa 2/Wykłady/Wykład 2/AL2-zestaw-2.pdf",
+    "Notatki/Algebra liniowa 2/Wykłady/Wykład 2/AL2-Wyklad-2.pdf",
+    "Notatki/Algebra liniowa 2/Wykłady/Wykład 2/Drawing 2023-04-26 13.23.30.excalidraw.md",
+    "Notatki/Algebra liniowa 2/Wykłady/Wykład 1/AL2-Wyklad-1.pdf",
+    "Notatki/Algebra liniowa 2/Wykłady/Wykład 1/Drawing 2023-04-19 14.05.45.excalidraw.md",
+    "Notatki/Algebra liniowa 2/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Teoria systemów/Wykłady/Wykład 7/Wykład 7.md",
     "Notatki/Teoria systemów/Wykłady/Wykład 7/Drawing 2023-05-24 07.31.09.excalidraw.md",
     "Notatki/Teoria systemów/Wykłady/Wykład 7",
@@ -174,27 +182,18 @@
     "Notatki/Teoria systemów/Wykłady/Kolokwium",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 6/Drawing 2023-05-18 11.06.37.excalidraw.md",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 9/Wykład 9.md",
-    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 9",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 8/Wykład 8.md",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 8/18.05.2023 r. w2(1).png",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 8/12.05.2023(1).png",
-    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 8",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 7/Wykład 7.md",
-    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 7/Podstawy automatyzacji procesów technologicznych - wprowadzenie -2023 PAiR.pdf",
-    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 7",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 6/Pasted Image 20230513100604_918.png",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 6/Drawing 2023-05-13 15.53.42.excalidraw.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 6/Drawing 2023-05-13 12.31.42.excalidraw.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 6/Drawing 2023-05-13 10.05.19.excalidraw.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 8/Drawing 2023-05-19 13.23.06.excalidraw.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 7/Drawing 2023-05-19 13.16.05.excalidraw.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 7/Drawing 2023-05-12 14.07.00.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Pasted Image 20230511180759_818.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Pasted Image 20230511171741_766.png",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 4/Pasted Image 20230519123344_296.png",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 4/Pasted Image 20230519123034_878.png",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 4/Pasted Image 20230518185347_965.png",
-    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 6",
     "Untitled.canvas"
   ]
 }
