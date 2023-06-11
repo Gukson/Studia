@@ -38,7 +38,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 1/Drawing 2023-03-02 12.19.04.excalidraw.md",
+                "file": "Notatki/Teoria systemów/Ćwiczenia/Kolokwium/Drawing 2023-06-03 09.54.21.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 1/Drawing 2023-03-02 12.19.04.excalidraw.md"
+                "file": "Notatki/Teoria systemów/Ćwiczenia/Kolokwium/Drawing 2023-06-03 09.54.21.excalidraw.md"
               }
             }
           }
@@ -158,8 +158,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fc7869c466adad70",
+  "active": "1f5dab0b637c97f2",
   "lastOpenFiles": [
+    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 6/Drawing 2023-05-22 07.33.21.excalidraw.md",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 1/Drawing 2023-03-02 12.19.04.excalidraw.md",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Drawing 2023-06-01 11.01.04.excalidraw.md",
     "Notatki/Teoria systemów/Ćwiczenia/Kolokwium/Drawing 2023-06-03 09.54.21.excalidraw.md",
     "Notatki/Teoria systemów/Ćwiczenia/Kolokwium/Kolokwium.md",
@@ -188,7 +190,6 @@
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-05 12.54.49.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-04 18.48.13.excalidraw.md",
     "Notatki/Algebra liniowa 2/Algebra liniowa 2.md",
-    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 6/Drawing 2023-05-22 07.33.21.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 6/Drawing 2023-05-24 13.33.14.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 5/Drawing 2023-05-16 08.08.53.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 5/Drawing 2023-05-24 13.21.00.excalidraw.md",
@@ -200,7 +201,6 @@
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 1/AL2-zestaw-1.pdf",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 2/AL2-zestaw-2.pdf",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 2/AL2-Wyklad-2.pdf",
-    "Notatki/Algebra liniowa 2/Wykłady/Wykład 1/Drawing 2023-04-19 14.05.45.excalidraw.md",
     "Notatki/Teoria systemów/Wykłady/Wykład 7",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos",
     "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 5",
