@@ -16,6 +16,8 @@ typ: 'W'
 8. [[Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 8/Wykład 8|Wykład 8]]
 9. [[Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 9/Wykład 9|Wykład 9]]
 10. [[Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 10/Wykład 10|Wykład 10]]
+11. [[Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 11/Wykład 11|Wykład 11]]
+12. [[Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 12/Wykład 12|Wykład 12]]
 
 ## Zaliczenie
 
