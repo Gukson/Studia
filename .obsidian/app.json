@@ -6,12 +6,14 @@
   "attachmentFolderPath": "./",
   "showInlineTitle": false,
   "pdfExportSettings": {
-    "pageSize": "Letter",
+    "pageSize": "A3",
     "landscape": false,
-    "margin": "0",
+    "margin": "1",
     "downscalePercent": 100
   },
   "tabSize": 4,
   "showFrontmatter": true,
-  "newLinkFormat": "absolute"
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true,
+  "newFileLocation": "current"
 }
