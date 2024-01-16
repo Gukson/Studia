@@ -13,4 +13,3 @@ typ: C
 ![](/Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Pasted%20image%2020231010141355.png)
 ![](/Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Pasted%20image%2020231010141410.png)
 
-
