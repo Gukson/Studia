@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 6/Wykład 6.md",
+                "file": "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 2/Wykład 2.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -63,8 +63,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#kolokwium",
-                "matchingCase": true,
+                "query": "#kolokwium ",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -80,8 +80,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 6/Wykład 6.md",
+                "file": "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 2/Wykład 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 6/Wykład 6.md"
+                "file": "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 2/Wykład 2.md"
               }
             }
           },
@@ -168,14 +167,17 @@
   },
   "active": "d184128905e5da0e",
   "lastOpenFiles": [
-    "Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 7/Wykład 7.md",
-    "Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 12/Wykład 12.md",
-    "Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 6/Wykład 6.md",
-    "Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/Wykład 4.md",
+    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 5/Wykład 5.md",
+    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 4/Wykład 4.md",
+    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 2/PT - wykład nr 2 (SK).pdf",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 3/Wykład 3.md",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 6/Wykład 6.md",
+    "Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 7/Wykład 7.md",
+    "Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 12/Wykład 12.md",
+    "Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/Wykład 4.md",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 1/intro.pdf",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 1/PT - wykład nr 1b (JK).pdf",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 7/Labolatoria 7.md",
@@ -194,8 +196,6 @@
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/Computer-Science/AI/machine-learning algorithm.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/Computer-Science/AI/machine learning.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/Computer-Science/AI/computer imaging.md",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/Computer-Science/AI/artificial intelligence.md",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/Math/Methods/self-intersect.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/portfolio.png",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/From damage to discovery via virtual unwrapping.pdf",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/AI reads text from ancient Herculaneum scroll for the first time.pdf",
@@ -204,7 +204,6 @@
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 7/shop-1.0-SNAPSHOT.jar",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 7/shopTest.zip",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 7",
-    "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 7",
     "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 7/Pasted Image 20240115074742_392.png",
     "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 7/Pasted Image 20240115074742_366.png",
     "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 7/Pasted Image 20240115074658_030.png",
