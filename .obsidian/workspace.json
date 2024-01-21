@@ -24,9 +24,12 @@
             "id": "d184128905e5da0e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 2/Drawing 2023-10-27 09.01.32.excalidraw.md"
+                "file": "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 2/Wykład 2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -116,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 2/Drawing 2023-10-27 09.01.32.excalidraw.md",
+                "file": "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 2/Wykład 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 2/Drawing 2023-10-27 09.01.32.excalidraw.md"
+                "file": "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 2/Wykład 2.md"
               }
             }
           },
@@ -164,6 +167,7 @@
   },
   "active": "d184128905e5da0e",
   "lastOpenFiles": [
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 2/Drawing 2023-10-27 09.01.32.excalidraw.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 2/IZS ćw3pdf.pdf",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 8/Wykład 8.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 7/Wykład 7.md",
@@ -173,7 +177,6 @@
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 3/Wykład 3.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 2/Drawing 2023-10-27 09.01.32.excalidraw.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 2/Wykład 2.md",
